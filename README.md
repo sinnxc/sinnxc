@@ -1,4 +1,4 @@
-<h1>Welcome to my repo</h1>
+<h2>Welcome to my repo</h2>
 
 <!--
 **Sinnxz/Sinnxz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
