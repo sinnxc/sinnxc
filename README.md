@@ -1,5 +1,5 @@
 <h2>Welcome to my repo</h2>
-
+<img src="https://giphy.com/clips/love-valentines-day-3rwKC8cFKlMI4UMaEi"/>
 <!--
 **Sinnxz/Sinnxz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
